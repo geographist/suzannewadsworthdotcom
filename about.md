@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About Suzanne
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Suzanne Wadsworth is a designer and maker of custom knitwear. She lives and works in Asheville, North Carolina after moving there from Colorado Springs, Colorado with her family. Her work is focused on the use of natural fibers sourced as close to home as possible. One of her recent works, The Pikes Peak Coat, can be seen at the Project Handmade 2016 Fashion Show put on by [LocalCloth](http://localcloth.org/).
